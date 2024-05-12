@@ -1,4 +1,2 @@
 # Computational_Math
-Computational mathematics itmo labs
-# Ah shit, here we go again
-![Иллюстрация к проекту](https://tenor.com/bnPzG.gif)
+![Иллюстрация к проекту](https://media1.tenor.com/m/GFyZcrPO7B0AAAAC/monkey.gif)
